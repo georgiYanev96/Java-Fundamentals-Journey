@@ -4,7 +4,7 @@ package DataTypesАndVariables;
 
 import java.util.Scanner;
 
-public class Exercise2 {
+public class PoundsToDollars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double pounds = Double.parseDouble(scanner.nextLine());

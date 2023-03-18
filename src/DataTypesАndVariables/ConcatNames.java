@@ -3,7 +3,7 @@ package DataTypesАndVariables;
 import java.util.Scanner;
 
 //Read two names and a delimiter. Print the names joined by the delimiter.
-public class Exercise5 {
+public class ConcatNames {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String firstName = scanner.nextLine();
